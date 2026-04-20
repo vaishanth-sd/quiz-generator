@@ -48,26 +48,6 @@ It is designed for use in:
 
 ---
 
-## 📂 Project Structure
-
-quiz-generator/
-│
-├── src/
-│ ├── config.py # Model + pipeline setup
-│ ├── utils.py # Answer extraction + validation
-│ ├── qg.py # Question generation logic
-│ ├── distractors.py # LLM-based distractor generation
-│ └── main.py # Entry point
-│
-├── notebook/
-│ └── Untitled15.ipynb # Experimentation (Colab)
-│
-├── requirements.txt
-└── README.md
-
-
----
-
 ## 🚀 Features
 
 - Generate MCQs from any paragraph
