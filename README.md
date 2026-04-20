@@ -55,12 +55,12 @@ quiz-generator/
 ├── src/
 │ ├── config.py # Model + pipeline setup
 │ ├── utils.py # Answer extraction + validation
-│ ├── qq.py # Question generation logic
+│ ├── qg.py # Question generation logic
 │ ├── distractors.py # LLM-based distractor generation
 │ └── main.py # Entry point
 │
 ├── notebook/
-│ └── Untitled15.ipynb # Experimentation
+│ └── Untitled15.ipynb # Experimentation (Colab)
 │
 ├── requirements.txt
 └── README.md
