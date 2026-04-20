@@ -1,0 +1,5 @@
+transformers==4.38.2
+sentence-transformers==2.6.1
+spacy
+openai
+torch
